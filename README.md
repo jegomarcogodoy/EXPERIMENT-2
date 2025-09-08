@@ -11,11 +11,11 @@ This experiment comprises 2 problems, namely:
 
 ********************* Coding Process ✏️ *********************
 __________________________________________________________________
--- > The "np.random.random((x,y))" function is used and stored to variable x to generate the 5x5 random element ndarray.
+-- > The 5x5 random element ndarray is created using the "np.random.random((x,y))" function and placed in variable x.
 
--- > Once the ndarray is generated and stored in "x", the next step is to get the MEAN and STANDARD DEVIATION of the ndarray. That can be done by using the "x.mean()" and "x.std()" functions, which are then stored in y and z, respectively.
+-- > The next step is to determine the ndarray's MEAN and STANDARD DEVIATION after it has been formed and saved in "x". The "x.mean()" and "x.std()" functions can be used for that, and the results are saved in y and z, respectively.
 
--- > The final step is to normalize the ndarray by using the formula = x - Mean / Standard Deviation. Coding-wise, that will be [(x-y)/z] and that will be stored as "normx".
+-- > The last step is to use the formula = x - Mean / Standard Deviation to normalize the ndarray. [(x-y)/z] is the coding for that, and "normx" will be the storage value.
 
 
 For Problem 2: Divisible by 3 Problem,
