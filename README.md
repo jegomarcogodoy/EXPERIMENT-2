@@ -11,6 +11,7 @@ This experiment comprises 2 problems, namely:
 
 ********************* Coding Process ✏️ *********************
 __________________________________________________________________
+For Problem 1: Normalization Problem,
 -- > The 5x5 random element ndarray is created using the "np.random.random((x,y))" function and placed in variable x.
 
 -- > The next step is to determine the ndarray's MEAN and STANDARD DEVIATION after it has been formed and saved in "x". The "x.mean()" and "x.std()" functions can be used for that, and the results are saved in y and z, respectively.
